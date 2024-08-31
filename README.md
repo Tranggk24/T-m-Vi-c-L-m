@@ -18,6 +18,27 @@ và mở rộng mạng lưới chuyên nghiệp.
 • Nhà tuyển dụng: Các doanh nghiệp, tổ chức, hoặc cá nhân có nhu 
 cầu thuê ngoài để hoàn thành các dự án mà không cần phải tuyển dụng 
 nhân viên cố định. 
+• Admin: N# DỰ ÁN TÌM VIỆC LÀM ONLINE
+ 
+Sinh Viên:  Trần Thị Thùy Trang 
+
+            Phạm Thị Vân Anh
+## 1. Mục tiêu dự án 
+Dự án này là 1 nền tảng trực tuyến an toàn kết nối các freelancer với 
+những người có nhu cầu thuê ngoài trong nhiều lĩnh vực khác nhau như: 
+CNTT, thiết kế, viết lách, dịch thuật, tiếp thị và còn nhiều ngành nghề
+khác nhau. Cung cấp một nền tảng minh bạch, an toàn và hiệu quả, hỗ
+trợ cộng đồng freelancer phát triển kỹ năng và sự nghiệp, đồng thời giúp 
+doanh nghiệp và cá nhân hoàn thành các dự án với chi phí tối ưu. 
+## 2. Đối tượng người dùng 
+ • Người tìm việc: Những cá nhân có kỹ năng và kinh nghiệm trong các 
+lĩnh vực khác nhau muốn tìm kiếm công việc tự do, kiếm thêm thu nhập 
+và mở rộng mạng lưới chuyên nghiệp.
+
+• Nhà tuyển dụng: Các doanh nghiệp, tổ chức, hoặc cá nhân có nhu 
+cầu thuê ngoài để hoàn thành các dự án mà không cần phải tuyển dụng 
+nhân viên cố định. 
+• Admin: Là người quản trị và điều hành trang web
 
 ## 3. Chức năng chính 
 • Đăng tải dự án: Người thuê có thể dễ dàng đăng các dự án cần thuê 
